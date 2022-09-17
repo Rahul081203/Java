@@ -10,6 +10,7 @@ public class Literals {
         boolean h=true;
         String str="helloworld"; //it is must to use double quotation marks to denote a string in java unlike python
         System.out.print(str);
+        //you can directly type sout and press enter to automatically add System.out.println()
     }
     
 }
