@@ -10,6 +10,8 @@ public class UserInputCalculator {
         float sum=num1+num2; // Add the inputs
         System.out.println("Sum is: "+sum);
         
+
+        // To validate the user input data type, we use sc.hasNextInt()/hasNextFloat() etc. which return boolean data (True/False)
     }
     
 }
