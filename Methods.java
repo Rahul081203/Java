@@ -1,3 +1,4 @@
+package Java;
 public class Methods {
     static int sum(int x, int y) // As only static functions can be called upon by other static objects therefore to call this function in the main method, which is implicitly declared as static, we must declare this method as static also.
     {   // If for any reason, we don't declare the function as static then, each object of the class has its own copy of this function and therefore can have multiple values instead of just one.

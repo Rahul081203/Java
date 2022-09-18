@@ -1,3 +1,4 @@
+package Java;
 public class VariableArguments {
 /*     static int sum(int x, int y) {
         return x + y;

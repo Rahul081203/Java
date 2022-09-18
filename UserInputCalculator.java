@@ -1,3 +1,4 @@
+package Java;
 import java.util.Scanner; //Importing the Scanner class for java to take user input
 public class UserInputCalculator {
     public static void main(String[] args) {

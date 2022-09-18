@@ -1,3 +1,4 @@
+package Java;
 public class Strings {
     public static void main(String[] args) {
         String name; // In Java, String is a class and to access it we must first declare an object of the string class.
