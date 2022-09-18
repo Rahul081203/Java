@@ -1,4 +1,4 @@
-package Java;
+
 public class CustomClass {
     
     public static class MyClass // It is advised not to declare more than one class as public in java.
