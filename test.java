@@ -1,4 +1,3 @@
-package Java;
 public class test {
  public static void main (String[] args) {
  // make three sets of words to choose from. Add your own!
