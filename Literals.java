@@ -1,4 +1,3 @@
-package Java;
 public class Literals {
     public static void main(String[] args) {
         byte a=32 ;
