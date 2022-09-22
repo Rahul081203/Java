@@ -11,7 +11,7 @@ class Derived extends Base{
         System.out.println("I am the derived class default constructor.");
     }
     Derived(int x, int y){
-        super(x);
+        super(x); // Pass value as a parameter to the super class.
         System.out.println("I am the derived class parameterized constructor with y: "+y);
     }
 }
